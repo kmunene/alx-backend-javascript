@@ -1,3 +1,1 @@
-javascript arrow functions
-
-
+ES6 basics
